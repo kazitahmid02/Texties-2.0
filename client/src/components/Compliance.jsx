@@ -29,7 +29,7 @@ const Compliance = () => {
         className="mt-12 flex justify-center"
       >
         <motion.img
-          src="./21.png"
+          src="https://res.cloudinary.com/drvkbxl0q/image/upload/v1726515625/21_xbsrez.png"
           alt="Compliance Image"
           className="w-full max-w-md md:max-w-lg lg:max-w-xl rounded-3xl shadow-xl transform transition-transform duration-700 ease-in-out hover:scale-105"
           style={{
